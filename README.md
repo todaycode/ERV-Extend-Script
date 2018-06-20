@@ -1,4 +1,4 @@
-Sublime-ExtendScript
+ERV-ExtendScript
 ====================
 
 This is a ST2 (ST3?) Adobe ExtendScript Bundle still in development
