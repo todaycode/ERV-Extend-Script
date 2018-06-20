@@ -7,22 +7,11 @@ Version 0.1
 
 ##Associated filetypes
 - jsx  
-- jsxinc  
-
-##Installation  
-Clone the repo to (Mac) /Users/[USERNAME]/Library/Application Support/Sublime Text 2/Packages
-
-    git clone https://github.com/fabiantheblind/Sublime-ExtendScript.git  
+- jsxinc   
 
 
 #Development  
 ##For starters the development should be done in a fork and applied to the original repo via pull request.  
-
-##Basics
-- Basics on [Syntax definition help is here](http://docs.sublimetext.info/en/latest/reference/syntaxdefs.html)  
-- Development is done via [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev)  
-- To get the JavaScript.tmLanguage file to .json-tmLanguage use [AAAPackageDev](https://github.com/SublimeText/AAAPackageDev#json-and-property-list-conversion)  
-- The ExtendScript.json-tmLanguage file has to be converted to the ExtendScript.tmLanguage file using AAAPackageDev [plist\_to\_json](https://github.com/SublimeText/AAAPackageDev#commands-1)  
 
 So the basic layout is there. Now we need to create lots of snippets and add definitions like ScriptUI and File stuff.  
 
